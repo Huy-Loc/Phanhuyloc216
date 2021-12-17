@@ -16,6 +16,7 @@ namespace PhanHuyLoc216.Data{
         
 
         public DbSet<PhanHuyLoc216.Models.UniversityPHL216> University { get; set; }
+         public DbSet<DinhTheAnh082.Models.PHL0216> PHL216 { get; set; }
 
        
     }
