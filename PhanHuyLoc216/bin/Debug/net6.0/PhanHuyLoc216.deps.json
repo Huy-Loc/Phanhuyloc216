@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PhanHuyLoc216/1.0.0": {
+        "runtime": {
+          "PhanHuyLoc216.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PhanHuyLoc216/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
